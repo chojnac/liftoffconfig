@@ -1,0 +1,14 @@
+platform :ios, '<%= deployment_target %>'
+
+# Add Application pods here
+pod 'CocoaLumberjack'
+
+
+
+target :unit_tests, :exclusive => true do
+  link_with 'UnitTests'
+  pod 'Specta'
+  pod 'Expecta'
+  pod 'OCMock'
+  pod 'OHHTTPStubs'
+end
