@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/chojnac/liftoffconfig.png?label=ready&title=Ready)](https://waffle.io/chojnac/liftoffconfig)
 Liftoff configuration
 -------------
 This is my [liftoff](https://github.com/thoughtbot/liftoff) configuration.
